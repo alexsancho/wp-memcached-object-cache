@@ -1,0 +1,19 @@
+{
+    "name": "alexsancho/wp-memcached-object-cache",
+    "description": "A persistent object cache backend powered by Memcached.",
+    "homepage": "https://github.com/alexsancho/wp-memcached-object-cache",
+    "type": "wordpress-dropin",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Alex Sancho",
+            "homepage": "https://github.com/alexsancho",
+            "role": "Developer"
+        }
+    ],
+    "require": {
+        "composer/installers": "~1.0",
+        "roave/security-advisories": "dev-master",
+        "koodimonni/composer-dropin-installer": ">=1.0.1"
+    }
+}
