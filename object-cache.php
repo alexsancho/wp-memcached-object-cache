@@ -1,6 +1,6 @@
 <?php
 /**
- * Plugin Name: Redis Object Cache Drop-In
+ * Plugin Name: Memcached Object Cache Drop-In
  * Description: A persistent object cache backend powered by Memcached.
  * Version: 1.0.0
  * Author: Alex Sancho
